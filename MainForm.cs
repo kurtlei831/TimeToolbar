@@ -29,8 +29,8 @@ namespace TimeToolbar
                 this.Settings.TimeZones = new TimeZoneSettings[] {
                     new TimeZoneSettings
                     {
-                        TimeZoneId = "UTC",
-                        TimeZoneLabel = "UTC"
+                        TimeZoneId = "GMT",
+                        TimeZoneLabel = "GMT"
                     }
                     ,
                     new TimeZoneSettings
